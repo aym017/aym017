@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @aym017 
-- 👀 I’m interested in any team thats won a treble this year
-- 🌱 I’m currently learning how to make lfc win a treble*
-- *not possible, sorry
-- 💞️ I’m looking to collaborate with a treble winner (from this year)
-- 📫 How to reach me. YOU DONT L PLUS RATIO PLUS GET GOOD PLUS please, wheres ur treble?
+- 🚀 Aspiring Aeronautical Engineer & Nanotech Enthusiast/Expert
+- 🧠 Currently learning: Python, Physics Simulations, Arduino
+- 🛠️ Building: A Flight Simulator + Real-life Glider Project
+- 🌍 Based in Kenya | Student
+- 📚 Passionate about science, clean energy, and solving local problems
+- ✈ Loves aeroplanes!
 
 <!---
 aym017/aym017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
